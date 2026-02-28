@@ -2,4 +2,4 @@ This is the real time data.
 New data ingested.
 Adding more iot data.
 
-Ingesting real time data. Bye....
+Ingesting real time data. Visit again.
